@@ -1,2 +1,2 @@
 # positive
-Positive is a CryptoCurrency.
+Positive is a Cryptocurrency.
